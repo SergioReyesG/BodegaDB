@@ -1,3 +1,4 @@
+--Base de datos BODEGA
 CREATE TABLE PRODUCTOS(
   idprod char(7) PRIMARY KEY,
   descripcion varchar2(25),
